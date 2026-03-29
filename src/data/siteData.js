@@ -537,13 +537,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real feedback from real riders. Our reputation is built one rescue at a time.",
-    ratingBreakdown: [
-      { stars: 5, count: 34 },
-      { stars: 4, count: 6 },
-      { stars: 3, count: 2 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 34, 4: 6, 3: 2, 2: 0, 1: 0 },
     items: [
       {
         name: "Tatenda Moyo",
